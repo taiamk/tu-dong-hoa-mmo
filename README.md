@@ -118,20 +118,31 @@
 
 ---
 
-## ❓ FAQ - CÂU HỎI THƯỜNG GẶP
+## ❓ FAQ - CÂU HỎI THƯỜNG GẶP VỀ AUTOMATIC MOUSE AND KEYBOARD & AI
 
 <details>
-<summary><b>1. Kịch bản Automatic Mouse and Keyboard ở đây có chứa virus không?</b></summary>
+<summary><b>1. Tại sao nên chọn combo AI + Automatic Mouse and Keyboard thay vì code thuần Python hay C#?</b></summary>
 <br>
-Toàn bộ kịch bản (.amk) là file text/macro thuần túy chạy trên phần mềm Automatic Mouse and Keyboard chính hãng. Hoàn toàn sạch 100%.
+Code thuần Python/C# đòi hỏi mất từ 6 tháng đến vài năm để làm chủ cú pháp, xử lý thư viện giao diện phức tạp và rất dễ nản lòng khi gặp lỗi. Trong khi đó, <b>Automatic Mouse and Keyboard (AMK) kết hợp AI</b> giúp rút ngắn 90% thời gian: AI lo phần tư duy cấu trúc logic, AMK lo phần thực thi thao tác trực quan. Bạn tập trung thẳng vào việc cày tiền MMO mà không cần giỏi code.
 </details>
 
 <details>
-<summary><b>2. Muốn học cách viết kịch bản AMK nâng cao thì làm thế nào?</b></summary>
+<summary><b>2. Kịch bản Automatic Mouse and Keyboard có bị các nền tảng (Game, Web, Social) quét khóa tài khoản không?</b></summary>
 <br>
-Bạn có thể truy cập ngay vào <b><a href="https://taiamk.pro/labs/">AMK LAB</a></b> để thực hành viết kịch bản trực tiếp với bộ công cụ chuẩn hóa.
+AMK mô phỏng trực tiếp thao tác phần cứng (Click, Type) ở cấp độ hệ điều hành nên có độ an toàn vượt trội so với việc can thiệp API/Request. Kết hợp với tư duy phân tách cụm lệnh nhỏ từ Trợ lý AI, bạn có thể dễ dàng chèn các hàm delay ngẫu nhiên, mô phỏng hành vi tương tác chuẩn chỉ như người thật để né tránh các bộ quét anti-bot.
 </details>
 
+<details>
+<summary><b>3. Trợ lý AI AMK Agent trên TaiAMK.pro hỗ trợ tạo kịch bản thế nào?</b></summary>
+<br>
+AI Agent đóng vai trò như một bộ não phân tích chuyên sâu, giúp bạn <b>x10 năng suất</b> bằng cách tạo ra các cụm lệnh và nhóm hành động AMK chuẩn xác. Bạn có thể trải nghiệm tư duy tự động hóa này tại <b><a href="https://taiamk.pro/labs/">AMK LAB</a></b> - môi trường giả lập sạch giúp học qua làm chỉ trong 90 giây.
+</details>
+
+<details>
+<summary><b>4. TaiAMK có nhận thiết kế và viết tool Automatic Mouse and Keyboard theo yêu cầu không?</b></summary>
+<br>
+Chúng tôi có dịch vụ may đo kịch bản và phát triển tool ngách theo yêu cầu (đơn luồng, đa luồng Multi-threading, tích hợp AI, giải OTP...). Bạn có thể liên hệ tư vấn kiến trúc trực tiếp tại <b><a href="https://taiamk.pro/">TaiAMK.pro</a></b>.
+</details>
 ---
 
 <div align="center">
