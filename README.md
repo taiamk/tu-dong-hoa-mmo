@@ -30,6 +30,7 @@
 
 <a href="https://taiamk.pro/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=taiamk&repo=tu-dong-hoa-mmo&theme=tokyonight&show_icons=true&hide_border=true&title_color=00F0FF&icon_color=FF007F" />
+  Website
 </a>
 <a href="https://taiamk.pro/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taiamk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00F0FF&icon_color=FF007F" />
