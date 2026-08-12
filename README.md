@@ -118,7 +118,7 @@ Toàn bộ kịch bản (.amk) là file text/macro thuần túy chạy trên ph�
 <details>
 <summary><b>2. Muốn học cách viết kịch bản AMK nâng cao thì làm thế nào?</b></summary>
 <br>
-Bạn có thể truy cập ngay vào <b><a href="https://taiamk.pro/lab">AMK LAB</a></b> để thực hành viết kịch bản trực tiếp với bộ công cụ chuẩn hóa.
+Bạn có thể truy cập ngay vào <b><a href="https://taiamk.pro/labs/">AMK LAB</a></b> để thực hành viết kịch bản trực tiếp với bộ công cụ chuẩn hóa.
 </details>
 
 ---
