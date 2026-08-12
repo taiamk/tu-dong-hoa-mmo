@@ -24,7 +24,7 @@
 
 ---
 
-## 📊 REPO ANALYTICS & METRICS
+## 📊 LIÊN KẾT
 
 <div align="center">
 
