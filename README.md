@@ -28,13 +28,9 @@
 
 <div align="center">
 
-<a href="https://taiamk.pro/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=taiamk&repo=tu-dong-hoa-mmo&theme=tokyonight&show_icons=true&hide_border=true&title_color=00F0FF&icon_color=FF007F" />
-  Website
-</a>
-<a href="https://taiamk.pro/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taiamk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00F0FF&icon_color=FF007F" />
-</a>
+[![TaiAMK Official](https://img.shields.io/badge/Official_Platform-TaiAMK.pro-FF007F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://taiamk.pro/)
+[![AMK Labs](https://img.shields.io/badge/AMK_Lab-Practice_Now-00F0FF?style=for-the-badge&logo=flask&logoColor=black)](https://taiamk.pro/labs/)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-TaiAMK_Official-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@taiamk.official)
 
 </div>
 
