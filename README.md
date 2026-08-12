@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=70&lines=AUTOMATIC+MOUSE+AND+KEYBOARD;T%E1%BB%B0+%C4%90%E1%BB%99NG+H%C3%93A+MMO+%C4%90%E1%BA%ACM+CH%E1%BA%A2T;AMK+SCRIPTS+COLLECTION+2026" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=70&lines=AUTOMATIC+MOUSE+AND+KEYBOARD;T%E1%BB%B0+%C4%90%E1%BB%99NG+H%C3%93A+MMO+%2B+AI+PRO;AMK+SCRIPTS+COLLECTION+2026" alt="Typing SVG" />
 
-# ⚡ AUTOMATIC MOUSE AND KEYBOARD (AMK) - TỰ ĐỘNG HÓA MMO PRO ⚡
+# ⚡ AUTOMATIC MOUSE AND KEYBOARD (AMK) - TỰ ĐỘNG HÓA MMO & AI ⚡
 
-*Thư viện kịch bản **Automatic Mouse and Keyboard (AMK)** tối ưu hóa cày tiền MMO, Auto Click Anti-AFK, Nuôi Nick, Reg Account số lượng lớn.*
+*Thư viện kịch bản **Automatic Mouse and Keyboard (AMK)** tối ưu hóa cày tiền MMO, Auto Click Anti-AFK, Tương tác AI, Nuôi Nick, Reg Account số lượng lớn.*
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME-tu-dong-hoa-mmo&color=ff007f&style=for-the-badge&label=LƯỢT+XEM+REPO" alt="Repo Views" />
-  <a href="https://github.com/YOUR_USERNAME/tu-dong-hoa-mmo/stargazers">
-    <img src="https://img.shields.io/github/stars/YOUR_USERNAME/tu-dong-hoa-mmo?color=00f2fe&style=for-the-badge&logo=github" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=taiamk-tu-dong-hoa-mmo&color=ff007f&style=for-the-badge&label=LƯỢT+XEM+REPO" alt="Repo Views" />
+  <a href="https://github.com/taiamk/tu-dong-hoa-mmo/stargazers">
+    <img src="https://img.shields.io/github/stars/taiamk/tu-dong-hoa-mmo?color=00f2fe&style=for-the-badge&logo=github" alt="Stars" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/tu-dong-hoa-mmo/network/members">
-    <img src="https://img.shields.io/github/forks/YOUR_USERNAME/tu-dong-hoa-mmo?color=4facfe&style=for-the-badge&logo=github" alt="Forks" />
+  <a href="https://github.com/taiamk/tu-dong-hoa-mmo/network/members">
+    <img src="https://img.shields.io/github/forks/taiamk/tu-dong-hoa-mmo?color=4facfe&style=for-the-badge&logo=github" alt="Forks" />
   </a>
   <img src="https://img.shields.io/badge/AMK_Engine-v6.x-7928CA?style=for-the-badge&logo=windows" alt="AMK Engine" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
@@ -28,70 +28,84 @@
 
 <div align="center">
 
-<a href="https://taiamk.pro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=tu-dong-hoa-mmo&theme=tokyonight&show_icons=true&hide_border=true&title_color=00F0FF&icon_color=FF007F" />
+<a href="https://taiamk.pro/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=taiamk&repo=tu-dong-hoa-mmo&theme=tokyonight&show_icons=true&hide_border=true&title_color=00F0FF&icon_color=FF007F" />
 </a>
-<a href="https://taiamk.pro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00F0FF&icon_color=FF007F" />
+<a href="https://taiamk.pro/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taiamk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00F0FF&icon_color=FF007F" />
 </a>
 
 </div>
 
 ---
 
-## 🔥 TOP KỊCH BẢN AUTOMATIC MOUSE AND KEYBOARD (AMK) HOT
+## 🔥 TOP KỊCH BẢN AUTOMATIC MOUSE AND KEYBOARD (AMK) & AI HOT
 
-> 💡 **Mẹo:** Click vào liên kết **[Download]** để tải trực tiếp file kịch bản mã nguồn `.amk` an toàn 100%.
+> 💡 **Lưu ý:** Các kịch bản đang được nén tối ưu và cập nhật định kỳ. Bấm **STAR ⭐** Repo để nhận thông báo ngay khi kịch bản được đẩy lên!
 
 <table>
   <thead>
     <tr>
       <th>Status</th>
       <th>Tên Kịch Bản AMK</th>
-      <th>Mô Tả Chức Năng MMO</th>
+      <th>Mô Tả Chức Năng MMO & AI</th>
       <th>Loại Thao Tác</th>
-      <th align="center">Action</th>
+      <th align="center">Trạng Thái</th>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><code>🤖 AI HOT</code></td>
+      <td><b>AMK Auto ChatGPT Post Content</b></td>
+      <td>Tự động gửi prompt cho AI, lấy nội dung auto đăng bài Web/Social</td>
+      <td><code>AI + Web Automation</code></td>
+      <td align="center"><code>⏳ Đang cập nhật</code></td>
+    </tr>
+    <tr>
+      <td><code>🤖 AI HOT</code></td>
+      <td><b>AMK Auto Rep Comment bằng AI</b></td>
+      <td>Đọc bình luận, tự động gọi AI sinh câu trả lời & trả lời khách hàng</td>
+      <td><code>AI + Social Seeding</code></td>
+      <td align="center"><code>⏳ Đang cập nhật</code></td>
+    </tr>
     <tr>
       <td><code>🔥 HOT</code></td>
       <td><b>AMK Auto Click Anti-AFK</b></td>
       <td>Tự động click chuột theo chu kỳ, chống văng game PC / Web</td>
       <td><code>Mouse Automation</code></td>
-      <td align="center"><a href="./scripts/auto-click-anti-afk.amk"><b>[ Download ]</b></a></td>
+      <td align="center"><code>⏳ Đang cập nhật</code></td>
     </tr>
     <tr>
       <td><code>⚡ PRO</code></td>
-      <td><b>AMK Auto Reg Account</b></td>
-      <td>Tự động đọc data Excel, điền Form reg nick, tạo acc MMO</td>
+      <td><b>AMK Auto Reg Acc + Giải OTP</b></td>
+      <td>Đọc data Excel, tự động điền Form reg nick, bắt OTP tạo acc MMO</td>
       <td><code>Data + Form Fill</code></td>
-      <td align="center"><a href="./scripts/auto-reg-account.amk"><b>[ Download ]</b></a></td>
+      <td align="center"><code>⏳ Đang cập nhật</code></td>
     </tr>
     <tr>
       <td><code>💎 VIP</code></td>
-      <td><b>AMK Auto Spam Message</b></td>
-      <td>Tự động gửi tin nhắn, seeding group/fanpage theo kịch bản</td>
+      <td><b>AMK Auto Spam / Seeding Group</b></td>
+      <td>Tự động gửi tin nhắn, seeding group/fanpage theo kịch bản chuẩn</td>
       <td><code>Keyboard Macro</code></td>
-      <td align="center"><a href="./scripts/auto-spam-chat.amk"><b>[ Download ]</b></a></td>
+      <td align="center"><code>⏳ Đang cập nhật</code></td>
     </tr>
     <tr>
       <td><code>⚙️ CORE</code></td>
-      <td><b>AMK Multi-Task Loop</b></td>
-      <td>Tự động hóa chuỗi thao tác chuột & phím phức tạp lặp lại</td>
+      <td><b>AMK Multi-Task Loop Master</b></td>
+      <td>Tự động hóa chuỗi thao tác chuột & phím phức tạp lặp lại 24/7</td>
       <td><code>Full Automation</code></td>
-      <td align="center"><a href="./scripts/auto-multi-task.amk"><b>[ Download ]</b></a></td>
+      <td align="center"><code>⏳ Đang cập nhật</code></td>
     </tr>
   </tbody>
 </table>
 
 ---
 
-## 🎯 TẠI SAO NÊN DÙNG AUTOMATIC MOUSE AND KEYBOARD CHO MMO?
+## 🎯 TẠI SAO NÊN DÙNG AUTOMATIC MOUSE AND KEYBOARD CHO MMO & AI?
 
 - 🤖 **Mô phỏng 100% người thật:** Nhấp chuột, di chuyển và gõ phím ở cấp độ phần cứng, khó bị các hệ thống Anti-cheat phát hiện.
-- 🚀 **Zero Code Required:** Dễ dàng chạy các kịch bản `.amk` có sẵn mà không cần biết lập trình.
-- 🛠️ **Tùy biến cực cao:** Dễ dàng chỉnh sửa tọa độ, thời gian delay và vòng lặp theo ý muốn.
+- 🚀 **Zero Code Required:** Dễ dàng chạy các kịch bản `.amk` có sẵn mà không cần biết lập trình phức tạp.
+- 🧠 **Kết hợp sức mạnh AI:** Kết hợp giao diện AI (ChatGPT, Claude...) với AMK để tự động hóa quy trình nuôi nick, viết bài, chăm sóc khách hàng đỉnh cao.
 
 ---
 
