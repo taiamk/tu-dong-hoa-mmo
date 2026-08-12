@@ -1,59 +1,135 @@
-# 🚀 Tự Động Hóa MMO Với Automatic Mouse and Keyboard (AMK Scripts)
+<div align="center">
 
-![Automatic Mouse and Keyboard MMO](https://img.shields.io/badge/Automatic_Mouse_and_Keyboard-MMO_Automation-blue?style=for-the-badge)
-![AMK Version](https://img.shields.io/badge/AMK_Script-Free_Download-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
+<!-- BANNER CHỮ GÕ TỰ ĐỘNG NEO DÒNG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=70&lines=AUTOMATIC+MOUSE+AND+KEYBOARD;T%E1%BB%B0+%C1%BBNG+H%C3%92A+MMO+Đ%E1%BA%BAM+CH%E1%BA%A2T;AMK+SCRIPTS+COLLECTION+2026" alt="Typing SVG" />
 
-Bộ thư viện kịch bản **Automatic Mouse and Keyboard (AMK)** hỗ trợ **tự động hóa MMO** hàng đầu. Giải pháp giúp dân cày tiền MMO, gamer và dân văn phòng tối ưu hóa công việc: auto click anti-AFK, auto reg account, nuôi nick số lượng lớn, spam tin nhắn và thao tác giả lập người dùng thật 100%.
+# ⚡ AUTOMATIC MOUSE AND KEYBOARD (AMK) - TỰ ĐỘNG HÓA MMO PRO ⚡
 
----
-
-## 🔥 Top Kịch Bản Automatic Mouse and Keyboard (AMK) Hot Cho Dân MMO
-
-| Tên Kịch Bản AMK | Chức Năng Tự Động Hóa MMO | Lợi Ích Cày MMO | Tải File .AMK |
-| :--- | :--- | :--- | :---: |
-| **AMK Auto Click Anti-AFK** | Click chuột theo chu kỳ, đổi tọa độ linh hoạt | Treo game PC, cày level không lo văng | [Tải về](./scripts/auto-click-anti-afk.amk) |
-| **AMK Auto Reg Account** | Tự động đọc dữ liệu Excel điền Form Web | Tạo hàng loạt tài khoản MMO, nuôi nick | [Tải về](./scripts/auto-reg-account.amk) |
-| **AMK Auto Spam Message** | Tự động gửi tin nhắn theo danh sách | Marketing MMO, seeding group/fanpage | [Tải về](./scripts/auto-spam-chat.amk) |
-| **AMK Auto Multi-Task PC** | Chạy chuỗi thao tác lặp lại theo kịch bản | Treo tool cày tiền, thao tác văn phòng | [Tải về](./scripts/auto-multi-task.amk) |
+*Thư viện kịch bản **Automatic Mouse and Keyboard (AMK)** tối ưu hóa cày tiền MMO, Auto Click Anti-AFK, Nuôi Nick, Reg Account số lượng lớn.*
 
 ---
 
-## ⚙️ Hướng Dẫn Chạy Kịch Bản Automatic Mouse and Keyboard
+<!-- HỆ THỐNG BADGES ẢO MA -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME-tu-dong-hoa-mmo&color=ff007f&style=for-the-badge&label=LƯỢT+XEM+REPO" alt="Repo Views" />
+  <a href="https://github.com/YOUR_USERNAME/tu-dong-hoa-mmo/stargazers">
+    <img src="https://img.shields.io/github/stars/YOUR_USERNAME/tu-dong-hoa-mmo?color=00f2fe&style=for-the-badge&logo=github" alt="Stars" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME/tu-dong-hoa-mmo/network/members">
+    <img src="https://img.shields.io/github/forks/YOUR_USERNAME/tu-dong-hoa-mmo?color=4facfe&style=for-the-badge&logo=github" alt="Forks" />
+  </a>
+  <img src="https://img.shields.io/badge/AMK_Engine-v6.x-7928CA?style=for-the-badge&logo=windows" alt="AMK Engine" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
+</p>
 
-1. **Tải phần mềm:** Cài đặt bộ công cụ **Automatic Mouse and Keyboard** trên máy tính.
-2. **Tải script:** Chọn file kịch bản đuôi `.amk` trong bảng danh sách ở trên.
-3. **Thực thi:** Mở phần mềm AMK -> Chọn `File` -> `Open` -> Chọn file kịch bản vừa tải -> Bấm `Run` (hoặc phím tắt `F9`).
+</div>
 
 ---
 
-## 💎 Kho Kịch Bản AMK Nâng Cao & Tool Tự Động Hóa VIP
+## 📊 REPO ANALYTICS & METRICS
 
-Nếu các kịch bản miễn phí chưa đủ giải quyết bài toán cày MMO phức tạp hoặc cần các kịch bản chống phát hiện (Anti-Detect):
+<div align="center">
 
-* 🌐 **Trang chủ & Thư viện kịch bản VIP:** [TaiAMK.pro](https://taiamk.pro/)
-* 🧪 **Thực hành viết script AMK siêu tốc:** [AMK LAB - Học qua làm](https://taiamk.pro/labs/)
-* 🎥 **Xem kịch bản AMK thực chiến:** [Kênh YouTube Hướng Dẫn AMK]([https://youtube.com](https://www.youtube.com/@taiamk.official))
+<!-- SHOW SỐ LIỆU STATS CARD ẢO MA -->
+<a href="https://taiamk.pro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=tu-dong-hoa-mmo&theme=tokyonight&show_icons=true&hide_border=true&title_color=00F0FF&icon_color=FF007F" />
+</a>
+<a href="https://taiamk.pro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00F0FF&icon_color=FF007F" />
+</a>
+
+</div>
 
 ---
 
-## ❓ FAQ - Câu Hỏi Thường Gặp Về Automatic Mouse and Keyboard (AMK)
+## 🔥 TOP KỊCH BẢN AUTOMATIC MOUSE AND KEYBOARD (AMK) HOT
+
+> 💡 **Mẹo:** Click vào liên kết **[Download]** để tải trực tiếp file kịch bản mã nguồn `.amk` an toàn 100%.
+
+<table>
+  <thead>
+    <tr>
+      <th>Status</th>
+      <th>Tên Kịch Bản AMK</th>
+      <th>Mô Tả Chức Năng MMO</th>
+      <th>Loại Thao Tác</th>
+      <th align="center">Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>🔥 HOT</code></td>
+      <td><b>AMK Auto Click Anti-AFK</b></td>
+      <td>Tự động click chuột theo chu kỳ, chống văng game PC / Web</td>
+      <td><code>Mouse Automation</code></td>
+      <td align="center"><a href="./scripts/auto-click-anti-afk.amk"><b>[ Download ]</b></a></td>
+    </tr>
+    <tr>
+      <td><code>⚡ PRO</code></td>
+      <td><b>AMK Auto Reg Account</b></td>
+      <td>Tự động đọc data Excel, điền Form reg nick, tạo acc MMO</td>
+      <td><code>Data + Form Fill</code></td>
+      <td align="center"><a href="./scripts/auto-reg-account.amk"><b>[ Download ]</b></a></td>
+    </tr>
+    <tr>
+      <td><code>💎 VIP</code></td>
+      <td><b>AMK Auto Spam Message</b></td>
+      <td>Tự động gửi tin nhắn, seeding group/fanpage theo kịch bản</td>
+      <td><code>Keyboard Macro</code></td>
+      <td align="center"><a href="./scripts/auto-spam-chat.amk"><b>[ Download ]</b></a></td>
+    </tr>
+    <tr>
+      <td><code>⚙️ CORE</code></td>
+      <td><b>AMK Multi-Task Loop</b></td>
+      <td>Tự động hóa chuỗi thao tác chuột & phím phức tạp lặp lại</td>
+      <td><code>Full Automation</code></td>
+      <td align="center"><a href="./scripts/auto-multi-task.amk"><b>[ Download ]</b></a></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## 🎯 TẠI SAO NÊN DÙNG AUTOMATIC MOUSE AND KEYBOARD CHO MMO?
+
+- 🤖 **Mô phỏng 100% người thật:** Nhấp chuột, di chuyển và gõ phím ở cấp độ phần cứng, khó bị các hệ thống Anti-cheat phát hiện.
+- 🚀 **Zero Code Required:** Dễ dàng chạy các kịch bản `.amk` có sẵn mà không cần biết lập trình.
+- 🛠️ **Tùy biến cực cao:** Dễ dàng chỉnh sửa tọa độ, thời gian delay và vòng lặp theo ý muốn.
+
+---
+
+## 🌐 HỆ THỐNG TÀI NGUYÊN TỰ ĐỘNG HÓA VIP
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Official_Website-TaiAMK.pro-FF007F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://taiamk.pro)
+[![AMK Lab](https://img.shields.io/badge/AMK_Lab-Học_Qua_Thực_Hành-00F0FF?style=for-the-badge&logo=flask&logoColor=black)](https://taiamk.pro/lab)
+[![YouTube](https://img.shields.io/badge/YouTube-Kênh_Hướng_Dẫn_AMK-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
+
+</div>
+
+---
+
+## ❓ FAQ - CÂU HỎI THƯỜNG GẶP
 
 <details>
-<summary><b>1. Automatic Mouse and Keyboard (AMK) có bị Game/Web phát hiện không?</b></summary>
-Phần mềm AMK can thiệp ở cấp độ mô phỏng phần cứng (chuột & bàn phím thật), giúp thao tác cực kỳ tự nhiên và khó bị phát hiện hơn các loại Auto Click thông thường.
+<summary><b>1. Kịch bản Automatic Mouse and Keyboard ở đây có chứa virus không?</b></summary>
+<br>
+Toàn bộ kịch bản (.amk) là file text/macro thuần túy chạy trên phần mềm Automatic Mouse and Keyboard chính hãng. Hoàn toàn sạch 100%.
 </details>
 
 <details>
-<summary><b>2. Tôi không biết code có dùng được Automatic Mouse and Keyboard không?</b></summary>
-Hoàn toàn được. Các kịch bản AMK mẫu ở đây đã được đóng gói sẵn dưới dạng file <code>.amk</code>, bạn chỉ cần tải về và bấm chạy. Nếu muốn chỉnh sửa, giao diện kéo thả của AMK vô cùng trực quan.
-</details>
-
-<details>
-<summary><b>3. Làm sao để sở hữu các kịch bản MMO chuyên nghiệp hơn?</b></summary>
-Hãy truy cập hệ thống <a href="https://taiamk.pro">TaiAMK.pro</a> để trải nghiệm kho kịch bản VIP chuyên biệt cho cày MMO, reg nick, nuôi tài khoản và tích hợp bảo mật.
+<summary><b>2. Muốn học cách viết kịch bản AMK nâng cao thì làm thế nào?</b></summary>
+<br>
+Bạn có thể truy cập ngay vào <b><a href="https://taiamk.pro/lab">AMK LAB</a></b> để thực hành viết kịch bản trực tiếp với bộ công cụ chuẩn hóa.
 </details>
 
 ---
 
-⭐ **Đừng quên bấm STAR cho Repo nếu kịch bản Automatic Mouse and Keyboard này giúp ích cho công việc MMO của bạn!**
+<div align="center">
+
+### ⭐ ĐỪNG QUÊN BẤM STAR CHO REPO NẾU NÓ HỮU ÍCH VỚI BẠN! ⭐
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-8041-356976a20b2e.gif" width="100%">
+
+</div>
