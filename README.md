@@ -31,7 +31,7 @@
 [![Website](https://img.shields.io/badge/Official_Website-TaiAMK.pro-FF007F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://taiamk.pro/)
 [![AMK Lab](https://img.shields.io/badge/AMK_Lab-Học_Qua_Thực_Hành-00F0FF?style=for-the-badge&logo=flask&logoColor=black)](https://taiamk.pro/labs/)
 [![YouTube](https://img.shields.io/badge/YouTube-Kênh_Hướng_Dẫn_AMK-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@taiamk.official)
-[![TikTok](https://img.shields.io/badge/TikTok-Kênh_Nắn_Dopamine-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@taiamk.official)
+[![TikTok](https://img.shields.io/badge/TikTok-Kênh_Dopamine-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@taiamk.official)
 [![Facebook](https://img.shields.io/badge/Facebook-Fanpage_Chính_Thức-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/taiamk.pro)
 
 </div>
@@ -115,7 +115,7 @@
 [![Website](https://img.shields.io/badge/Official_Website-TaiAMK.pro-FF007F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://taiamk.pro/)
 [![AMK Lab](https://img.shields.io/badge/AMK_Lab-Học_Qua_Thực_Hành-00F0FF?style=for-the-badge&logo=flask&logoColor=black)](https://taiamk.pro/labs/)
 [![YouTube](https://img.shields.io/badge/YouTube-Kênh_Hướng_Dẫn_AMK-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@taiamk.official)
-[![TikTok](https://img.shields.io/badge/TikTok-Kênh_Nắn_Dopamine-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@taiamk.official)
+[![TikTok](https://img.shields.io/badge/TikTok-Kênh_Dopamine-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@taiamk.official)
 [![Facebook](https://img.shields.io/badge/Facebook-Fanpage_Chính_Thức-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/taiamk.pro)
 
 </div>
