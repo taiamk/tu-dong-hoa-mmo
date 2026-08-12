@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- BANNER CHỮ GÕ TỰ ĐỘNG NEO DÒNG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=70&lines=AUTOMATIC+MOUSE+AND+KEYBOARD;T%E1%BB%B0+%C1%BBNG+H%C3%92A+MMO+Đ%E1%BA%BAM+CH%E1%BA%A2T;AMK+SCRIPTS+COLLECTION+2026" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=70&lines=AUTOMATIC+MOUSE+AND+KEYBOARD;T%E1%BB%B0+%C4%90%E1%BB%99NG+H%C3%93A+MMO+%C4%90%E1%BA%ACM+CH%E1%BA%A2T;AMK+SCRIPTS+COLLECTION+2026" alt="Typing SVG" />
 
 # ⚡ AUTOMATIC MOUSE AND KEYBOARD (AMK) - TỰ ĐỘNG HÓA MMO PRO ⚡
 
@@ -9,7 +8,6 @@
 
 ---
 
-<!-- HỆ THỐNG BADGES ẢO MA -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME-tu-dong-hoa-mmo&color=ff007f&style=for-the-badge&label=LƯỢT+XEM+REPO" alt="Repo Views" />
   <a href="https://github.com/YOUR_USERNAME/tu-dong-hoa-mmo/stargazers">
@@ -30,7 +28,6 @@
 
 <div align="center">
 
-<!-- SHOW SỐ LIỆU STATS CARD ẢO MA -->
 <a href="https://taiamk.pro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=tu-dong-hoa-mmo&theme=tokyonight&show_icons=true&hide_border=true&title_color=00F0FF&icon_color=FF007F" />
 </a>
@@ -102,9 +99,9 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Official_Website-TaiAMK.pro-FF007F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://taiamk.pro)
-[![AMK Lab](https://img.shields.io/badge/AMK_Lab-Học_Qua_Thực_Hành-00F0FF?style=for-the-badge&logo=flask&logoColor=black)](https://taiamk.pro/lab)
-[![YouTube](https://img.shields.io/badge/YouTube-Kênh_Hướng_Dẫn_AMK-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
+[![Website](https://img.shields.io/badge/Official_Website-TaiAMK.pro-FF007F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://taiamk.pro/)
+[![AMK Lab](https://img.shields.io/badge/AMK_Lab-Học_Qua_Thực_Hành-00F0FF?style=for-the-badge&logo=flask&logoColor=black)](https://taiamk.pro/labs/)
+[![YouTube](https://img.shields.io/badge/YouTube-Kênh_Hướng_Dẫn_AMK-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@taiamk.official)
 
 </div>
 
