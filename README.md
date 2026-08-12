@@ -31,9 +31,9 @@ Bộ thư viện kịch bản **Automatic Mouse and Keyboard (AMK)** hỗ trợ 
 
 Nếu các kịch bản miễn phí chưa đủ giải quyết bài toán cày MMO phức tạp hoặc cần các kịch bản chống phát hiện (Anti-Detect):
 
-* 🌐 **Trang chủ & Thư viện kịch bản VIP:** [TaiAMK.pro](https://taiamk.pro)
-* 🧪 **Thực hành viết script AMK siêu tốc:** [AMK LAB - Học qua làm](https://taiamk.pro/lab)
-* 🎥 **Xem kịch bản AMK thực chiến:** [Kênh YouTube Hướng Dẫn AMK](https://youtube.com)
+* 🌐 **Trang chủ & Thư viện kịch bản VIP:** [TaiAMK.pro](https://taiamk.pro/)
+* 🧪 **Thực hành viết script AMK siêu tốc:** [AMK LAB - Học qua làm](https://taiamk.pro/labs/)
+* 🎥 **Xem kịch bản AMK thực chiến:** [Kênh YouTube Hướng Dẫn AMK]([https://youtube.com](https://www.youtube.com/@taiamk.official))
 
 ---
 
